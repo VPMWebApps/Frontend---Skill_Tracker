@@ -58,6 +58,6 @@ const Courses = () => {
       </div>
     </div>
   );
-};
+}; // Courses.jsx
 
 export default Courses;
