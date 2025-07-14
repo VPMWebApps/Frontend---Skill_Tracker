@@ -39,7 +39,7 @@ const Courses = () => {
 
           <div>
             <div className="bg-gray-200 h-48 rounded-lg border p-5 text-3xl font-medium">
-              My Progress
+               Explore more courses
             </div>
           </div>
         </div>
